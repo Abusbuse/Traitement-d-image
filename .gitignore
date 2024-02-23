@@ -1,0 +1,5 @@
+# Ignore __pycache__ folders
+TP/TPMediaPipe/__pycache__/
+TP/TPSudoku/__pycache__/
+TP/TPSudoku/myenv
+TP/TPBodyTracking/__pycache__/
